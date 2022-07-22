@@ -1,6 +1,6 @@
-package com.techyourchance.dagger2course.networking
+package com.csappgenerator.puredependency.networking
 
 import com.google.gson.annotations.SerializedName
-import com.techyourchance.dagger2course.questions.Question
+import com.csappgenerator.puredependency.questions.Question
 
 class QuestionsListResponseSchema(@SerializedName("items") val questions: List<Question>)

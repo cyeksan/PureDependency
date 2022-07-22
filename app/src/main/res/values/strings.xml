@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Dagger 2 Course</string>
+    <string name="app_name">Pure Dependency</string>
     <string name="server_error_dialog_title">Server Error</string>
     <string name="server_error_dialog_message">Communication with the server failed</string>
     <string name="server_error_dialog_button_caption">OK</string>

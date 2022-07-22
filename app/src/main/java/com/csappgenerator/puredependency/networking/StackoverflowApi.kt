@@ -1,6 +1,6 @@
-package com.techyourchance.dagger2course.networking
+package com.csappgenerator.puredependency.networking
 
-import com.techyourchance.dagger2course.Constants
+import com.csappgenerator.puredependency.Constants
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Path

@@ -1,4 +1,4 @@
-package com.techyourchance.dagger2course.questions
+package com.csappgenerator.puredependency.questions
 
 import com.google.gson.annotations.SerializedName
 
