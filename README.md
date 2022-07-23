@@ -1,5 +1,5 @@
 # PureDependency
-An Android project that shows dependency injection architectural pattern without any 3rd party DI framework like Dagger/Hilt
+An Android project that shows Manual dependency/dependency injection architectural pattern without any 3rd party DI framework like Dagger/Hilt
 
 # Details
 Stackoverflow API has been used for API request demonstration with MVC arhitecture. 
